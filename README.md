@@ -10,4 +10,4 @@
 
 ## Jester card
 
-Each jester earns it's player 1 gold coin if another player *flips the table*.
+Each jester earns it's player 1 gold coin if and only if another player *flips the table*.
